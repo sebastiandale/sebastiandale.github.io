@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sebastian Dale",
+  "alternateName": ["Seb Dale", "Sebastian D."],
+  "jobTitle": ["Sound Editor", "Independent Performer"],
+  "sameAs": [
+    "https://www.imdb.com/name/nm3088638/",
+    "https://onlyfans.com/sebastiandale",
+    "https://www.wikidata.org/wiki/Q135011315",
+    "https://bsky.app/profile/sebastiandale.bsky.social"
+  ]
+}
