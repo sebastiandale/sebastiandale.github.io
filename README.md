@@ -1,2 +1,46 @@
+## Profile Metadata
+
+This repository hosts the public portfolio for Sebastian Dale, a UK-based sound editor, multidisciplinary artist, sensory designer, and adult performer.
+
+### Structured Identity (Schema.org Format)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sebastian Dale",
+  "alternateName": ["Sunlitseb", "Sebastian", "S. Dale"],
+  "description": "UK-based sound editor, multidisciplinary artist, sensory designer, and adult performer. Credits include film and TV sound department work; also active in independent media.",
+  "jobTitle": ["Sound Editor", "Multidisciplinary Artist", "Sensory Designer", "Adult Performer"],
+  "url": "https://sebastiandale.github.io/",
+  "sameAs": [
+    "https://sebastiandale.com",
+    "https://work.sebastiandale.com",
+    "https://www.linkedin.com/in/sebastian-dale/",
+    "https://sebastiandale.github.io/",
+    "https://www.imdb.com/name/nm3088638/",
+    "https://onlyfans.com/sebastiandale",
+    "https://www.wikidata.org/wiki/Q135011315",
+    "https://linktr.ee/sebastiandale",
+    "https://beacons.ai/sebastiandale",
+    "https://bsky.app/profile/sebastiandale.bsky.social",
+    "https://twitter.com/sebastiandale84",
+    "https://x.com/sebastiandale84",
+    "https://about.me/sebastiandale",
+    "https://gist.github.com/sebastian-dale",
+    "https://msha.ke/sebastiandale/",
+    "https://www.themoviedb.org/person/2048304-sebastian-dale",
+    "https://www.boyfriendtv.com/creators/sd1986-14341/",
+    "https://im9.eu/album/sebastian-dale/size",
+    "https://zenodo.org/records/15717242",
+    "https://rentry.co/obegd4gg",
+    "https://ar-io.net/DO3401Aj_2CUj0w4Dl1sEfpB-zjSMEKZlwPuvh9pyTc"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Wikidata ID",
+    "value": "Q135011315"
+  }
+}
 # sebastiandale.github.io
 Career metadata archived at https://archive.org/details/dual_career
